@@ -26,11 +26,14 @@
 
 .quem-sou-eu1{
     background-image: linear-gradient(#0300A5,#0B0A4A);
+}
+
+.quem-sou-eu-texto1{
     color: white;
     width: 400px;
     height: 700px;
 }
 
 .quem-sou-eu-imagem{
-    width: 15%;
+    width: 30%;
 }
