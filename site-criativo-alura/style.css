@@ -13,7 +13,9 @@
 }
 
 .cabecalho-imagem{
+    display: flex;
     width: 50%;
+    align-items: center;
 }
 
 .cabecalho-lista-item{
