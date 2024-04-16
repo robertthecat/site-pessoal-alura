@@ -37,6 +37,10 @@
     font-size: 27px;
 }
 
+.sobre-mim-titulo1{
+    align-items: x=1000,y=210 ;
+}
+
 .sobre-mim-texto1{
     color: white;
     width: 580px;
