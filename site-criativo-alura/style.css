@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+main  {
+    display: flex;
+    justify-content: space-around;
+    align-items: left;
+}
 
 .cabecalho {
     background-color: #0300A5;
@@ -42,9 +47,13 @@
     font-size: 27px;
 }
 
+.sobre-mim{
+    display: grid;
+}
+
 .sobre-mim-titulo1{
     color: white;
-    font-size: 30px; 
+    font-size: 30px;
 }
 .sobre-mim-texto1{
     color: white;
