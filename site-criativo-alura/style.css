@@ -30,6 +30,11 @@
     height: 2048px;
 }
 
+.quem-sou-eu-titulo1{
+    color: white;
+    font-size: 30px;
+}
+
 .quem-sou-eu-texto1{
     color: white;
     width: 400px;
@@ -38,8 +43,10 @@
 }
 
 .sobre-mim-titulo1{
-    overflow-x:1000px;
-    overflow-y:210px;
+    color: white;
+    font-size: 30px;
+    background-position-x:1000px;
+    background-position-y:210px;
 }
 
 .sobre-mim-texto1{
