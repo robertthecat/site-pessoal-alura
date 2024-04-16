@@ -38,8 +38,8 @@
 }
 
 .sobre-mim-titulo1{
-    x:1000px;
-    y:210px;
+    overflow-x:1000px;
+    overflow-y:210px;
 }
 
 .sobre-mim-texto1{
