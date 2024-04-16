@@ -45,7 +45,7 @@
 .sobre-mim-titulo1{
     color: white;
     font-size: 30px;
-    display: flex;
+    align-self: auto;
 }
 .sobre-mim-texto1{
     color: white;
