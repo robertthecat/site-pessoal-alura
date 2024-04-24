@@ -49,6 +49,7 @@ main  {
 
 .sobre-mim{
     display: grid;
+    background-image: linear-gradient(#0300A5,#0B0A4A);
 }
 
 .sobre-mim-titulo1{
